@@ -39,8 +39,6 @@ android {
 }
 
 dependencies {
-    implementation (libs.fontawesome)
-    implementation (libs.material.v190)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
     implementation(libs.androidx.activity)
